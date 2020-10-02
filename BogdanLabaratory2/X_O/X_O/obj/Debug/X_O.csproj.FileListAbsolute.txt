@@ -1,0 +1,10 @@
+C:\Users\miger\source\repos\X_O\X_O\bin\Debug\X_O.exe.config
+C:\Users\miger\source\repos\X_O\X_O\bin\Debug\X_O.exe
+C:\Users\miger\source\repos\X_O\X_O\bin\Debug\X_O.pdb
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.csprojAssemblyReference.cache
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.Form1.resources
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.Properties.Resources.resources
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.csproj.GenerateResource.cache
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.csproj.CoreCompileInputs.cache
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.exe
+C:\Users\miger\source\repos\X_O\X_O\obj\Debug\X_O.pdb
