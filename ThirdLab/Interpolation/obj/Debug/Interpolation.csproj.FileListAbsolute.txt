@@ -1,0 +1,40 @@
+C:\Users\Mike\source\repos\Interpolation\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\Mike\source\repos\Interpolation\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\Mike\source\repos\Interpolation\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.InterpolationForm.resources
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\Mike\source\repos\Interpolation\Interpolation\obj\Debug\Interpolation.pdb
+C:\Users\DeaRain\Desktop\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\DeaRain\Desktop\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\DeaRain\Desktop\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.csprojAssemblyReference.cache
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.InterpolationForm.resources
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\DeaRain\Desktop\Interpolation\obj\Debug\Interpolation.pdb
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.csprojAssemblyReference.cache
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.InterpolationForm.resources
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\obj\Debug\Interpolation.pdb
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\deads\OneDrive\Рабочий стол\akal\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.csprojAssemblyReference.cache
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.InterpolationForm.resources
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.cache
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\deads\OneDrive\Рабочий стол\ThirdLab\Interpolation\obj\Debug\Interpolation.pdb
