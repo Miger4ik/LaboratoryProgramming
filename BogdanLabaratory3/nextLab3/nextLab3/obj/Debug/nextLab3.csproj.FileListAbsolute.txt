@@ -1,0 +1,10 @@
+C:\Users\miger\source\repos\nextLab3\nextLab3\bin\Debug\nextLab3.exe.config
+C:\Users\miger\source\repos\nextLab3\nextLab3\bin\Debug\nextLab3.exe
+C:\Users\miger\source\repos\nextLab3\nextLab3\bin\Debug\nextLab3.pdb
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.csprojAssemblyReference.cache
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.Form1.resources
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.Properties.Resources.resources
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.csproj.GenerateResource.cache
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.csproj.CoreCompileInputs.cache
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.exe
+C:\Users\miger\source\repos\nextLab3\nextLab3\obj\Debug\nextLab3.pdb
