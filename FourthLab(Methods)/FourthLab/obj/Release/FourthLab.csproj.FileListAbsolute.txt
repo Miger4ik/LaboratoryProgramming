@@ -1,0 +1,10 @@
+D:\C# Lessons\FourthLab\FourthLab\bin\Release\FourthLab.exe.config
+D:\C# Lessons\FourthLab\FourthLab\bin\Release\FourthLab.exe
+D:\C# Lessons\FourthLab\FourthLab\bin\Release\FourthLab.pdb
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.csprojAssemblyReference.cache
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.Form1.resources
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.Properties.Resources.resources
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.csproj.GenerateResource.cache
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.csproj.CoreCompileInputs.cache
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.exe
+D:\C# Lessons\FourthLab\FourthLab\obj\Release\FourthLab.pdb
