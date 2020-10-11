@@ -1,0 +1,10 @@
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\deads\source\repos\SecondLab( X-O )\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
